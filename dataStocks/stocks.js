@@ -1,0 +1,1 @@
+[{"id":2,"nama":"1","harga":1,"barcode":1},{"id":3,"nama":"1","harga":1,"barcode":1}]
